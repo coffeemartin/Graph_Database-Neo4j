@@ -1,0 +1,201 @@
+Nbh_ID,neighborhood,npu,county,Population
+1,The Villages at Carver,Y,Fulton County,1039.0
+2,Virginia Highland,F,Fulton County,0.0
+3,Campbellton Road,R,Fulton County,4709.0
+4,Adamsville,H,Fulton County,2403.0
+5,Ben Hill,P,Fulton County,1725.0
+6,Pine Hills,B,Fulton County,8033.0
+7,Venetian Hills,S,Fulton County,3790.0
+8,Fairburn Mays,H,Fulton County,3144.0
+9,Lindbergh/Morosgo,B,Fulton County,0.0
+10,Buckhead Village,B,Fulton County,1343.0
+11,Princeton Lakes,P,Fulton County,2429.0
+12,Cascade Avenue/Road,S,Fulton County,2416.0
+13,Lakewood Heights,Y,Fulton County,2177.0
+14,Midtown,E,Fulton County,16569.0
+15,Downtown,M,Fulton County,13411.0
+16,Adair Park,V,Fulton County,1331.0
+17,Lindridge/Martin Manor,F,Fulton County,4221.0
+18,Summerhill,V,Fulton County,2025.0
+19,Ben Hill Terrace,P,Fulton County,937.0
+20,Berkeley Park,D,Fulton County,1400.0
+21,Southwest,R,Fulton County,4158.0
+22,South River Gardens,Z,Fulton County,2279.0
+23,Westview,T,Fulton County,3020.0
+24,Greenbriar,R,Fulton County,3628.0
+25,Cabbagetown,N,Fulton County,1247.0
+26,Mays,H,Fulton County,790.0
+27,Garden Hills,B,Fulton County,3939.0
+28,Pittsburgh,V,Fulton County,3658.0
+29,West Paces Ferry/Northside,A,Fulton County,1218.0
+30,English Avenue,L,Fulton County,3309.0
+31,West Lake,J,Fulton County,1256.0
+32,East Lake,O,DeKalb County,2568.0
+33,Carey Park,G,Fulton County,1739.0
+34,West End,T,Fulton County,4270.0
+35,Old Fourth Ward,M,Fulton County,10505.0
+36,Lenox,B,Fulton County,1663.0
+37,Vine City,L,Fulton County,2785.0
+38,Adams Park,R,Fulton County,1763.0
+39,The Villages at Castleberry Hill,T,Fulton County,864.0
+40,Peachtree Battle Alliance,C,Fulton County,1540.0
+41,Peachtree Heights West,B,Fulton County,4767.0
+42,Edgewood,O,DeKalb County,3983.0
+43,Browns Mill Park,Z,Fulton County,2170.0
+44,Hunter Hills,K,Fulton County,2223.0
+45,Kirkwood,O,DeKalb County,5897.0
+46,Fairburn Heights,H,Fulton County,1138.0
+47,Grove Park,J,Fulton County,4929.0
+48,Westhaven,I,Fulton County,0.0
+49,Thomasville Heights,Z,Fulton County,2739.0
+50,Marietta Street Artery,E,Fulton County,745.0
+51,Piedmont Heights,F,Fulton County,2323.0
+52,Buckhead Forest,B,Fulton County,2252.0
+53,Deerwood,P,Fulton County,566.0
+54,Morningside/Lenox Park,F,Fulton County,8030.0
+55,Oakcliff,H,Fulton County,0.0
+56,Ansley Park,E,Fulton County,2277.0
+57,Fairburn,P,Fulton County,0.0
+58,Ormewood Park,W,Fulton County,4050.0
+59,Mechanicsville,V,Fulton County,3731.0
+60,Scotts Crossing,G,Fulton County,1164.0
+61,Ashview Heights,T,Fulton County,1292.0
+62,Center Hill,J,Fulton County,3058.0
+63,Sylvan Hills,X,Fulton County,4669.0
+64,Ben Hill Forest,P,Fulton County,0.0
+65,Collier Heights,I,Fulton County,5593.0
+66,Historic Westin Heights/Bankhead,K,Fulton County,0.0
+67,Grant Park,W,Fulton County,6771.0
+68,Perkerson,X,Fulton County,2347.0
+69,Joyland,Y,Fulton County,639.0
+70,Chosewood Park,Y,Fulton County,3790.0
+71,Home Park,E,Fulton County,4941.0
+72,East Chastain Park,B,Fulton County,2065.0
+73,North Buckhead,B,Fulton County,8270.0
+74,Hammond Park,X,Fulton County,2565.0
+75,East Atlanta,W,DeKalb County,5033.0
+76,Atlantic Station,E,Fulton County,1888.0
+77,Capitol Gateway,V,Fulton County,823.0
+78,Harland Terrace,I,Fulton County,2138.0
+79,South Atlanta,Y,Fulton County,1738.0
+80,Kings Forest,P,Fulton County,1674.0
+81,Peachtree Park,B,Fulton County,1316.0
+82,Audobon Forest,I,Fulton County,0.0
+83,Whittier Mill Village,D,Fulton County,617.0
+84,Glenrose Heights,Z,Fulton County,4071.0
+85,Custer/McDonough/Guice,W,Fulton County,1257.0
+86,Leila Valley,Z,Fulton County,847.0
+87,Rosedale Heights,Z,Fulton County,844.0
+88,Rebel Valley Forest,Z,Fulton County,0.0
+89,Reynoldstown,N,Fulton County,2550.0
+90,Druid Hills,N,DeKalb County,0.0
+91,Castleberry Hill,M,Fulton County,1285.0
+92,Brandon,C,Fulton County,943.0
+93,Norwood Manor,Z,Fulton County,871.0
+94,Rockdale,G,Fulton County,611.0
+95,Bush Mountain,S,Fulton County,0.0
+96,Capitol View,X,Fulton County,1965.0
+97,Fort Valley,R,Fulton County,0.0
+98,Oakland City,S,Fulton County,3442.0
+99,Inman Park,N,Fulton County,4098.0
+100,Brookwood,E,Fulton County,1834.0
+101,Poncey-Highland,N,Fulton County,2133.0
+102,Lakewood,Z,Fulton County,1333.0
+103,Sweet Auburn,M,Fulton County,1882.0
+104,Almond Park,G,Fulton County,1020.0
+105,Swallow Circle/Baywood,Z,Fulton County,577.0
+106,Briar Glen,P,Fulton County,0.0
+107,Chastain Park,A,Fulton County,2398.0
+108,Peachtree Hills,B,Fulton County,2785.0
+109,Midwest Cascade,Q,Fulton County,1786.0
+110,Hills Park,D,Fulton County,953.0
+111,Ardmore,E,Fulton County,756.0
+112,Peoplestown,V,Fulton County,2612.0
+113,Underwood Hills,D,Fulton County,3410.0
+114,Bolton,D,Fulton County,2996.0
+115,Audobon Forest West,I,Fulton County,0.0
+116,Carroll Heights,H,Fulton County,1173.0
+117,Dixie Hills,J,Fulton County,1756.0
+118,Brookhaven,B,Fulton County,0.0
+119,Polar Rock,Z,Fulton County,991.0
+120,West Highlands,G,Fulton County,1164.0
+121,Florida Heights,I,Fulton County,1242.0
+122,Washington Park,K,Fulton County,1124.0
+123,Loring Heights,E,Fulton County,1774.0
+124,Colonial Homes,C,Fulton County,0.0
+125,Mt. Paran/Northside,A,Fulton County,1568.0
+126,Mozley Park,K,Fulton County,1714.0
+127,Ben Hill Acres,P,Fulton County,0.0
+128,Ridgewood Heights,C,Fulton County,601.0
+129,Cross Creek,C,Fulton County,2041.0
+130,Heritage Valley,P,Fulton County,910.0
+131,Blandtown,D,Fulton County,0.0
+132,Harris Chiles,T,Fulton County,765.0
+133,Candler Park,N,DeKalb County,3291.0
+134,Riverside,D,Fulton County,1341.0
+135,Atlanta University Center,T,Fulton County,5703.0
+136,Buckhead Heights,B,Fulton County,0.0
+137,Bankhead/Bolton,H,Fulton County,0.0
+138,Boulder Park,H,Fulton County,0.0
+139,Knight Park/Howell Station,K,Fulton County,2545.0
+140,Penelope Neighbors,J,Fulton County,559.0
+141,Peyton Forest,I,Fulton County,817.0
+142,The Villages at East Lake,O,DeKalb County,1460.0
+143,Paces,A,Fulton County,2623.0
+144,High Point,Y,Fulton County,0.0
+145,Wilson Mill Meadows,H,Fulton County,1096.0
+146,Wildwood ,C,Fulton County,0.0
+147,Baker Hills at Campbellton,R,Fulton County,0.0
+148,Benteen Park,W,Fulton County,893.0
+149,Brookwood Hills,E,Fulton County,2103.0
+150,English Park,G,Fulton County,0.0
+151,Woodland Hills,W,Fulton County,0.0
+152,Beecher Hills,I,Fulton County,647.0
+153,Amal Heights,Y,Fulton County,0.0
+154,Elmco Estates,P,Fulton County,0.0
+155,Brookview Heights,G,Fulton County,0.0
+156,Lincoln Homes,G,Fulton County,590.0
+157,Wisteria Gardens,H,Fulton County,512.0
+158,Capitol View Manor,X,Fulton County,664.0
+159,Hanover West,C,Fulton County,0.0
+160,Wesley Battle,C,Fulton County,0.0
+161,Lake Claire,N,DeKalb County,2557.0
+162,Blair Villa/Poole Creek,Z,Fulton County,0.0
+163,Memorial Park,C,Fulton County,0.0
+164,Collier Hills North,C,Fulton County,0.0
+165,Carver Hills,G,Fulton County,681.0
+166,Pomona Park,R,Fulton County,0.0
+167,Westwood Terrace,I,Fulton County,733.0
+168,Chalet Woods,I,Fulton County,0.0
+169,Huntington,P,Fulton County,0.0
+170,Ashley Courts,P,Fulton County,0.0
+171,Old Gordon,H,Fulton County,761.0
+172,Cascade Heights,I,Fulton County,1124.0
+173,Peyton Heights,I,Fulton County,0.0
+174,Tuxedo Park,A,Fulton County,1182.0
+175,Ben Hill Pines,P,Fulton County,0.0
+176,Continental Colony,R,Fulton County,0.0
+177,Greenbriar Village,P,Fulton County,0.0
+178,Fairway Acres,P,Fulton County,513.0
+179,Arden/Habersham,C,Fulton County,0.0
+180,Monroe Heights,G,Fulton County,903.0
+181,Peachtree Heights East,B,Fulton County,1081.0
+182,Sandlewood Estates,P,Fulton County,0.0
+183,Channing Valley,C,Fulton County,0.0
+184,South Tuxedo Park,B,Fulton County,1085.0
+185,Orchard Knob,Z,Fulton County,673.0
+186,Butner/Tell,P,Fulton County,0.0
+187,Pleasant Hill,A,Fulton County,0.0
+188,Harvel Homes Community,J,Fulton County,0.0
+189,Randall Mill,A,Fulton County,0.0
+190,Meadowbrook Forest,P,Fulton County,0.0
+191,Ridgecrest Forest,H,Fulton County,0.0
+192,Atkins Park,F,Fulton County,0.0
+193,Laurens Valley,R,Fulton County,0.0
+194,Westminster/Milmar,C,Fulton County,0.0
+195,Wildwood Forest,P,Fulton County,0.0
+196,Arlington Estates,P,Fulton County,776.0
+197,Bolton Hills,G,Fulton County,0.0
+198,Oakland,W,Fulton County,0.0
+199,Westover Plantation,C,Fulton County,0.0
+200,West Manor,I,Fulton County,0.0
