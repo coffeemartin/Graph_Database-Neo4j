@@ -1,5 +1,5 @@
 # Graph_Database
-Transforming the traditional relational database into graph database for more efficient querying and data science exploration. With Neo4J and Cypher.
+Transforming the traditional relational database into graph database for more efficient querying and data science algorithms exploration. With Neo4J and Cypher.
 ![Screenshot 2023-05-27 160019](https://github.com/coffeemartin/Graph_Database/assets/73702415/01853908-f420-4b09-ade4-4825086dcd2b)
 
 
