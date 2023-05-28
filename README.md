@@ -19,3 +19,4 @@ detection, similarity, path finding, etc can be easily used to solve complex que
 revisit the previous crime site based on weighted importance of the crime cases? How much similarity different suburbs have in terms of population, crime rate? These can be extremely difficult or
 impossible to achieve in traditional database. The COLLECT, UNWIND, PATTERN COMPREHENSIONS are also extreme powerful syntax to work with lists.
 5. Graph database do not need NULL value has a placeholder like in tabular form, if no information is provided, then no property, relationship will be needed.
+![Screenshot 2023-05-28 124500](https://github.com/coffeemartin/Graph_Database/assets/73702415/1eb06797-b282-41df-917f-257efbd7e03c)
