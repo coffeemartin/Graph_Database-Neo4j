@@ -1,5 +1,7 @@
 # Graph_Database
-Transforming the traditional relational database into graph database for more efficient querying and data science exploration.
+Transforming the traditional relational database into graph database for more efficient querying and data science exploration. With Neo4J and Cypher.
+![Screenshot 2023-05-27 160019](https://github.com/coffeemartin/Graph_Database/assets/73702415/01853908-f420-4b09-ade4-4825086dcd2b)
+
 
 The graph database project is a continuation of the data warehousing project, the same data set was used to build the graph database.
 The design, ELT process, queries have all been updated from the previous relational database, in order to suit the purposes of property graph database and answer different business queries.
